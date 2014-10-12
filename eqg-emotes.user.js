@@ -40,8 +40,8 @@ function run() {
     addEmote("http://i.imgur.com/hUPsyJu.png", "eqgTrixieGrin", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/tmryKRs.png", "eqgAdagioMine", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/cO4oOp3.png", "eqgAriaGrumpy", "EQG", "Equestria Girls", 1);
-    addEmote("http://i.imgur.com/nPSbliU.png", "eqgSonataPondering", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/f0lc16r.png", "eqgSonataGrin", "EQG", "Equestria Girls", 1);
+    addEmote("http://i.imgur.com/nPSbliU.png", "eqgSonataPondering", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/YsheuiO.png", "eqgHumanTwi", "EQG", "Equestria Girls", 1);
 
 }
