@@ -6,7 +6,7 @@
 // @include http*://fimfiction.net/*
 // @grant none
 // @require https://raw.github.com/KrazyTheFox/Fimfiction-Emote-API/master/emoteAPI.js
-// @version 3.0
+// @version 3.0.1
 // ==/UserScript==
 
 $(document).ready(run());
@@ -30,11 +30,13 @@ function run() {
     addEmote("http://i.imgur.com/lx5XiWm.png", "eqgPinkieSquee", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/CxbQtjH.png", "eqgShyStageFright", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/UXwgDwe.png", "eqgSpikeGarwsh", "EQG", "Equestria Girls", 1);
-    addEmote("http://i.imgur.com/iKw10C0.png", "eqgVinylStoic", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/KnLyWTi.png", "eqgRariPunk", "EQG", "Equestria Girls", 1);
+    addEmote("http://i.imgur.com/iKw10C0.png", "eqgVinylStoic", "EQG", "Equestria Girls", 1);
+    addEmote("http://i.imgur.com/idId9PB.png", "eqgOctyRawr", "EQG", "Equestria Girls", 1);
+    addEmote("http://i.imgur.com/ndb8cIk.png", "eqgMaudPie", "EQG", "Equestria Girls", 1);
+    addEmote("http://i.imgur.com/Yd8nH5f.png", "eqgSunsetAck", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/mI33oTu.png", "eqgShimmerbetes", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/XXo8Tn3.png", "eqgSunsetDetermined", "EQG", "Equestria Girls", 1);
-    addEmote("http://i.imgur.com/Yd8nH5f.png", "eqgSunsetAck", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/hUPsyJu.png", "eqgTrixieGrin", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/tmryKRs.png", "eqgAdagioMine", "EQG", "Equestria Girls", 1);
     addEmote("http://i.imgur.com/cO4oOp3.png", "eqgAriaGrumpy", "EQG", "Equestria Girls", 1);
